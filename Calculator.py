@@ -10,5 +10,5 @@ elif A==2:
     D=int(input(" ***두 번째 숫자를 입력하세요: "))
     answer=(C+D)/2*(D-C+1)
     print(C,"+...+",D,"는",answer,"입니다.")
-else
-print("1 또는 2만 입력해야 합니다.")
+else:
+    print("1 또는 2만 입력해야 합니다.")
